@@ -4,7 +4,7 @@
 #include <dirent.h>
 #include "../headers/write.h"
 
-int main(int argc, char *argvs){
+int main(){
 
     char subjects[900] = "";
     char subject[100] = "subject";
