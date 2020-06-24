@@ -1,2 +1,2 @@
 void list_files(char path[]);
-void create_file(char subject[]);
+void edit_file(char subject[]);
